@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="daef7e71-467c-4454-a7ff-7eb2a99d507d" name="Default Changelist" comment="" />
+    <list default="true" id="daef7e71-467c-4454-a7ff-7eb2a99d507d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hexFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fileOpen.py" beforeDir="false" afterPath="$PROJECT_DIR$/fileOpen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngimages/Screen_color_test_Amiga_4colors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngimages/Screen_color_test_VGA_16colors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pngimages/Screen_color_test_VGA_256colors.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZnZCjXgZ9QCzrvHhAkHgM2QgWV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +34,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fileData.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -30,7 +43,7 @@
       <recent name="D:\Repos\PNGChunks" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.fileData">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="PNGChunks" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -44,6 +57,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileOpen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fileData" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PNGChunks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Repos\PNGChunks\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileData.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,6 +107,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.fileOpen" />
+      <item itemvalue="Python.fileData" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -88,38 +126,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="175" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585481192955">
+    <state x="414" y="175" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585492508878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="175" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1680.34.1680.1010@0.0.1920.1040" timestamp="1585481192955" />
+    <state x="414" y="175" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1680.34.1680.1010@0.0.1920.1040" timestamp="1585492508878" />
     <state x="722" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585480101856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="722" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1680.34.1680.1010@0.0.1920.1040" timestamp="1585480101856" />
-    <state x="740" y="283" key="FileChooserDialogImpl" timestamp="1585481192532">
+    <state x="614" y="114" key="CommitChangelistDialog2" timestamp="1585493254139">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="283" key="FileChooserDialogImpl/0.0.1920.1040/-1680.34.1680.1010@0.0.1920.1040" timestamp="1585481192532" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1585483497374">
+    <state x="614" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1680.34.1680.1010@0.0.1920.1040" timestamp="1585493254139" />
+    <state x="740" y="283" key="FileChooserDialogImpl" timestamp="1585492505511">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1680.34.1680.1010@0.0.1920.1040" timestamp="1585483497374" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1585483497373">
+    <state x="740" y="283" key="FileChooserDialogImpl/0.0.1920.1040/-1680.34.1680.1010@0.0.1920.1040" timestamp="1585492505511" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1585496741041">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1680.34.1680.1010@0.0.1920.1040" timestamp="1585483497373" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1585483497373">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1680.34.1680.1010@0.0.1920.1040" timestamp="1585496741041" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1585496741041">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1680.34.1680.1010@0.0.1920.1040" timestamp="1585483497373" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1585483497373">
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1680.34.1680.1010@0.0.1920.1040" timestamp="1585496741041" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1585496741040">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1680.34.1680.1010@0.0.1920.1040" timestamp="1585483497373" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1585483268859">
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1680.34.1680.1010@0.0.1920.1040" timestamp="1585496741040" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1585496741041">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1680.34.1680.1010@0.0.1920.1040" timestamp="1585483268859" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1680.34.1680.1010@0.0.1920.1040" timestamp="1585496741041" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1585492246693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1680.34.1680.1010@0.0.1920.1040" timestamp="1585492246693" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585479581903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
