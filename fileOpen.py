@@ -8,13 +8,13 @@ def displayImage(filename):
     cv2.destroyAllWindows()
 
 
-def saveFileInHex(filename, pngFile):
-    file = open(pngFile, 'rb')
+def saveFileInHex(pngInHexFilename, filename):
+    file = open(filename, 'rb')
     fileInHex = file.read().hex()
-    text_file = open(filename, 'w')
+    text_file = open(pngInHexFilename, 'w')
     n = text_file.write(fileInHex)
     text_file.close()
-    print(fileInHex)
+    print("Hex version of this file has been saved to given file")
     file.close()
 
 
