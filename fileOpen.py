@@ -18,5 +18,5 @@ def saveFileInHex(pngInHexFilename, filename):
     file.close()
 
 
-displayImage('images/testFile1.png')
-saveFileInHex('hexFile.txt', 'images/testFile1.png')
+#displayImage('images/s03n3p01.png')
+saveFileInHex('hexFile3x3.txt', 'images/s03n3p01.png')

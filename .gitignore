@@ -1,2 +1,4 @@
 /.idea/
 /venv/
+/venv/Lib/
+/venv/Lib/site-packages/
