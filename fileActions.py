@@ -73,9 +73,9 @@ def removeAncillaryChunks(filename):
 # END OF REMOVING ANCILLARY CHUNKS #
 ####################################
 
-executeNumpyFourierTransform('images/testFile2.png')
-executeOpenCVFourierTransform('images/testFile1.png')
-removeAncillaryChunks('images/testFile1.png')
+#executeNumpyFourierTransform('images/testFile2.png')
+#executeOpenCVFourierTransform('images/testFile1.png')
+#removeAncillaryChunks('images/testFile1.png')
 ####################################
 # END OF REMOVING ANCILLARY CHUNKS #
 ####################################

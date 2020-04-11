@@ -17,6 +17,12 @@ def saveFileInHex(pngInHexFilename, filename):
     print("Hex version of this file has been saved to given file")
     file.close()
 
+def showFileInHex(filename):
+    file = open(filename, 'rb')
+    fileInHex = file.read().hex()
+    print("Hex version of this file: ", fileInHex)
+    file.close()
+
 
 #displayImage('images/s03n3p01.png')
-saveFileInHex('hexFile3x3.txt', 'images/s03n3p01.png')
+#saveFileInHex('hexFile3x3.txt', 'images/s03n3p01.png')
