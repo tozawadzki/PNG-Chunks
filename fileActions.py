@@ -7,6 +7,7 @@ import numpy as np
 # FOURIER TRANSFORM #
 #####################
 # inspired by https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html
+# https://docs.scipy.org/doc/numpy/reference/routines.fft.html
 def executeNumpyFourierTransform(filename):
     img = cv2.imread(filename, 0)
     f = np.fft.fft2(img)
