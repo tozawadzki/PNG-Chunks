@@ -12,9 +12,9 @@ from fileOpen import displayImage, showFileInHex
 IHDR = '49484452'
 IDAT = '49444154'
 IEND = '49454e44'
-PLTE = '504C5445'
-CHRM = '6348524D'
-TIME = '74494D45'
+PLTE = '504c5445'
+CHRM = '6348524d'
+TIME = '74494d45'
 
 def getFileData(filename):
     getFileSize(filename)
